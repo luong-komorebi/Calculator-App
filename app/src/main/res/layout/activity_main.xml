@@ -20,18 +20,22 @@
         <Button
             android:id="@+id/button1"
             android:text="1"
+            android:layout_weight="1"
             android:textSize="20sp"/>
         <Button
             android:id="@+id/button2"
             android:text="2"
+            android:layout_weight="1"
             android:textSize="20sp"/>
         <Button
             android:id="@+id/button3"
             android:text="3"
+            android:layout_weight="1"
             android:textSize="20sp"/>
         <Button
             android:id="@+id/buttonAdd"
             android:text="+"
+            android:layout_weight="1"
             android:textSize="20sp"/>
     </TableRow>
     <TableRow
@@ -40,18 +44,22 @@
         <Button
             android:id="@+id/button4"
             android:text="4"
+            android:layout_weight="1"
             android:textSize="20sp"/>
         <Button
             android:id="@+id/button5"
             android:text="5"
+            android:layout_weight="1"
             android:textSize="20sp"/>
         <Button
             android:id="@+id/button6"
             android:text="6"
+            android:layout_weight="1"
             android:textSize="20sp"/>
         <Button
             android:id="@+id/buttonSub"
             android:text="-"
+            android:layout_weight="1"
             android:textSize="20sp"/>
     </TableRow>
 
@@ -61,18 +69,22 @@
         <Button
             android:id="@+id/button7"
             android:text="7"
+            android:layout_weight="1"
             android:textSize="20sp"/>
         <Button
             android:id="@+id/button8"
             android:text="8"
+            android:layout_weight="1"
             android:textSize="20sp"/>
         <Button
             android:id="@+id/button9"
             android:text="9"
+            android:layout_weight="1"
             android:textSize="20sp"/>
         <Button
             android:id="@+id/buttonMul"
             android:text="*"
+            android:layout_weight="1"
             android:textSize="20sp"/>
     </TableRow>
     <TableRow
@@ -81,18 +93,22 @@
         <Button
             android:id="@+id/buttonClear"
             android:text="CLEAR"
+            android:layout_weight="1"
             android:textSize="20sp"/>
         <Button
             android:id="@+id/button0"
             android:text="0"
+            android:layout_weight="1"
             android:textSize="20sp"/>
         <Button
             android:id="@+id/buttonEqual"
             android:text="="
+            android:layout_weight="1"
             android:textSize="20sp"/>
         <Button
             android:id="@+id/buttonDiv"
             android:text="/"
+            android:layout_weight="1"
             android:textSize="20sp"/>
     </TableRow>
 
